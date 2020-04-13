@@ -85,3 +85,10 @@ body{
     height: 35%;
     background-color: black;
 }
+
+.custom {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #00c2f9!important;
+}
